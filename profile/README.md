@@ -14,10 +14,10 @@
 
   <br /><br />
 
-  <a href="https://github.com/mistic-clouds?tab=repositories">
+  <a href="https://github.com/orgs/mistic-clouds/repositories">
     <img src="https://img.shields.io/badge/Explore%20Projects-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" />
   </a>
-  <a href="https://github.com/mistic-clouds?tab=repositories">
+  <a href="https://github.com/orgs/mistic-clouds/repositories">
     <img src="https://img.shields.io/badge/All%20Repositories-0B1220?style=for-the-badge&logo=github&logoColor=67E8F9" alt="All repositories" />
   </a>
 </div>
@@ -77,7 +77,7 @@ Not every repository will be at the same stage. Some will be ready for collabora
 The repositories are the best way to see what is happening. Each project has its own context, instructions, and next steps.
 
 <div align="center">
-  <a href="https://github.com/mistic-clouds?tab=repositories">
+  <a href="https://github.com/orgs/mistic-clouds/repositories">
     <img src="https://img.shields.io/badge/Browse%20Repositories-00C7D9?style=for-the-badge&logo=github&logoColor=07111B" alt="Browse repositories" />
   </a>
 </div>
@@ -90,7 +90,7 @@ The repositories are the best way to see what is happening. Each project has its
   <br /><br />
   <a href="https://github.com/mistic-clouds">GitHub</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/mistic-clouds?tab=repositories">Repositories</a>
+  <a href="https://github.com/orgs/mistic-clouds/repositories">Repositories</a>
   <br /><br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4E8,55:102A43,100:070B14&height=100&section=footer" alt="" width="100%" />
 </div>
