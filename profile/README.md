@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <a href="https://github.com/misticclouds">
+  <a href="https://github.com/mistic-clouds">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:070B14,48:102A43,100:00D4E8&height=220&section=header&text=Mistic%20Clouds&fontSize=54&fontColor=F4FAFF&fontAlignY=38&desc=Projects%20%2F%20Experiments%20%2F%20Developer%20Tools&descSize=16&descAlignY=58&descColor=C5F7FA&animation=fadeIn" alt="Mistic Clouds — Projects, Experiments, Developer Tools" width="100%" />
   </a>
 
@@ -14,10 +14,10 @@
 
   <br /><br />
 
-  <a href="https://github.com/misticclouds?tab=repositories">
+  <a href="https://github.com/mistic-clouds?tab=repositories">
     <img src="https://img.shields.io/badge/Explore%20Projects-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" />
   </a>
-  <a href="https://github.com/misticclouds?tab=repositories">
+  <a href="https://github.com/mistic-clouds?tab=repositories">
     <img src="https://img.shields.io/badge/All%20Repositories-0B1220?style=for-the-badge&logo=github&logoColor=67E8F9" alt="All repositories" />
   </a>
 </div>
@@ -77,7 +77,7 @@ Not every repository will be at the same stage. Some will be ready for collabora
 The repositories are the best way to see what is happening. Each project has its own context, instructions, and next steps.
 
 <div align="center">
-  <a href="https://github.com/misticclouds?tab=repositories">
+  <a href="https://github.com/mistic-clouds?tab=repositories">
     <img src="https://img.shields.io/badge/Browse%20Repositories-00C7D9?style=for-the-badge&logo=github&logoColor=07111B" alt="Browse repositories" />
   </a>
 </div>
@@ -88,9 +88,9 @@ The repositories are the best way to see what is happening. Each project has its
   <strong>Mistic Clouds</strong><br />
   <sub>Started independently. Made better together.</sub>
   <br /><br />
-  <a href="https://github.com/misticclouds">GitHub</a>
+  <a href="https://github.com/mistic-clouds">GitHub</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/misticclouds?tab=repositories">Repositories</a>
+  <a href="https://github.com/mistic-clouds?tab=repositories">Repositories</a>
   <br /><br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4E8,55:102A43,100:070B14&height=100&section=footer" alt="" width="100%" />
 </div>
